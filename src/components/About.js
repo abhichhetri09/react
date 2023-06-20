@@ -67,6 +67,7 @@
     </div>
     <div className="container my-3">
     <button type="button" className='btn btn-primary ' onClick={toogleStyle}>{btntext}</button>
+    <h1>Bye</h1>
     </div>
 
         </div>
